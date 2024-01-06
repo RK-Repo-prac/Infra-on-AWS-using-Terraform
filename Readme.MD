@@ -1,5 +1,3 @@
-Here is a more comprehensive README explaining each component in more detail:
-
 # Terraform AWS Infrastructure Project
 
 This project leverages Terraform to deploy a networking infrastructure and sample web application on AWS. 
